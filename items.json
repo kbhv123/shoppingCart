@@ -1,0 +1,12 @@
+{
+    "cheese": {
+        "type": "dairy",
+        "weight": "500g"
+        
+    },
+
+    "chocolate": {
+        "type": "sweet",
+        "weight": "400g"
+    }
+}
